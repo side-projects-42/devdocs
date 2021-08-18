@@ -67,7 +67,7 @@ module Docs
     end
 
     version '2.7' do
-      self.release = '2.7.35'
+      self.release = '2.7.05'
       self.base_url = "https://api.symfony.com/#{version}/"
     end
 
